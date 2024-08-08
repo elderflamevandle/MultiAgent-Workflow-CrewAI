@@ -78,6 +78,6 @@ This will create an instance of the ```RAGAgent class```, which will then be use
 If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on the project's GitHub repository.
 
 # License
-This project is licensed under the Apache Licence 2.0.
+This project is licensed under the MIT Licence.
 
 
